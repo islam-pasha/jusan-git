@@ -1,3 +1,4 @@
+new-readme
 # stepik-id-printer 
 ![alt-text](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/ "")  
 Это проект для вывода моего персонального идентификатора на образовательной платформе `stepik.org`
@@ -39,4 +40,8 @@ int main() {
 | Почта     |[ссылка](mail.com)| 24 часа  |
 | Linkedln  |[ссылка](ln.com)| 3 часа   |
 | WhatsApp  |[ссылка](wp.com)| 30 минут |
-| Telegram  |[ссылка](t.com)| 5 минут  |
+| Telegram  |[ссылка](t.com)| 5 минут
+  |
+=======
+скрипт username.sh выводит имя владельца файла 
+master
